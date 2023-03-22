@@ -1,0 +1,1 @@
+class Listsizemediumtypefilled3ItemModel { }
